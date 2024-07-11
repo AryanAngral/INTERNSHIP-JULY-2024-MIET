@@ -2,7 +2,7 @@
 ARYAN ANGRAL
 <br>
 MY REPOSITORY FOR SUMMER INTERNSHIP 2024 (JULY-AUGUST) - MIET
-# Summer Internship 2024 at MIET College: Project Name
+# Summer Internship 2024 at MIET College: Multi Project's 
 
 ## Description
 
