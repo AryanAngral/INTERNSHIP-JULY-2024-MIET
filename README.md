@@ -6,7 +6,7 @@ MY REPOSITORY FOR SUMMER INTERNSHIP 2024 (JULY-AUGUST) - MIET
 
 ## Description
 
-This project was developed during my summer internship at MIET College. It aims to solve [briefly describe the problem or goal of your project]. The technologies used include [list the relevant technologies or tools].
+These project were developed during my summer internship at MIET College. It aims to develope problem solving and real time project development.
 
 ## Installation
 
