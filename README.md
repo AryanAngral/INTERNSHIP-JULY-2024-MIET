@@ -12,4 +12,4 @@ This project was developed during my summer internship at MIET College. It aims 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-project.git
+   git clone (https://github.com/AryanAngral/INTERNSHIP-JULY-2024-MIET.git)
